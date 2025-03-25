@@ -11,20 +11,20 @@ $(document).ready(function() {
     {
       url: "https://medium.com/@yourusername/your-article-slug-1",
       containerId: "medium-widget-1",
-      title: "Geo AI Assistant: Transforming Spatial Data Access",
-      description: "Our comprehensive article explores how we built a Text-to-SQL solution specifically optimized for geographic data."
+      title: "GeoAI Assistant: Empowering Non-Technical Users with Natural Language Database Queries",
+      description: "A comprehensive article that showcases the project overall."
     },
     {
-      url: "https://medium.com/@yourusername/your-article-slug-2",
+      url: "https://medium.com/@mkruts03/adapting-text-2-sql-for-large-scale-databases-c5fc62604bfa",
       containerId: "medium-widget-2",
-      title: "Technical Deep Dive: Building Text-to-SQL for Spatial Data",
-      description: "A technical exploration of the architecture and implementation details of our Geo AI Assistant."
+      title: "Adapting Text‑2‑SQL for Large‑Scale Databases",
+      description: "A technical exploration of the Text2SQL of our Geo AI Assistant."
     },
     {
-      url: "https://medium.com/@yourusername/your-article-slug-3",
+      url: "https://medium.com/@gagliarducci.antonio/implementing-document-search-with-llms-using-langchain-01624867d07a",
       containerId: "medium-widget-3",
-      title: "Case Study: Real-World Applications of Geo AI Assistant",
-      description: "How organizations are using our Text-to-SQL solution to simplify access to geographic data."
+      title: "Implementing Document Search with LLMs Using LangChain",
+      description: "A deeper dive into the document search architecture implemented in our Geo AI Assistant"
     }
   ];
   
