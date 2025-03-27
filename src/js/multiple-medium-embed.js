@@ -9,7 +9,7 @@ $(document).ready(function() {
   // Array of article objects with URL, container ID, and title/description for fallback
   const mediumArticles = [
     {
-      url: "https://medium.com/@yourusername/your-article-slug-1",
+      url: "https://medium.com/@lukasnackmayr/geoai-assistant-empowering-non-technical-users-with-natural-language-database-queries-1eb50e93a015",
       containerId: "medium-widget-1",
       title: "GeoAI Assistant: Empowering Non-Technical Users with Natural Language Database Queries",
       description: "A comprehensive article that showcases the project overall."
